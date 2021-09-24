@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "mobile",
+    "company": "mi",
+    "uiu": 10
+  },
+  {
+    "id": 2,
+    "name": "Watch",
+    "company": "Xmi",
+    "uiu": 10
+  },
+  {
+    "id": 3,
+    "name": "PC",
+    "company": "miron",
+    "uiu": 10
+  },
+  {
+    "id": 4,
+    "name": "tab",
+    "company": "mia",
+    "uiu": 10
+  },
+  {
+    "id": 5,
+    "name": "fan",
+    "company": "manji",
+    "uiu": 10
+  },
+  {
+    "id": 6,
+    "name": "laptop",
+    "company": "mitul",
+    "uiu": 10
+  }
+]
